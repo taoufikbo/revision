@@ -5,7 +5,7 @@
 - [ ] Colorier l’origine, flèche/sens #lundi
 
 ## Mardi
-- [ ] Colorier en bleu/rouge la partie positive/négative #mardi
+- [ ] Colorier en bleu/rouge/ la partie positive/négative #mardi
   - 📄 [Demi-droite graduée décimaux](https://mathezca.org/wp-content/uploads/2020/06/exercice_diriges_reperage_decimaux_6eme_nc5-1.pdf)
   - 🎥 [Placer un nombre sur la droite graduée](https://lesfondamentaux.reseau-canope.fr/video/mathematiques/nombres/comparaison-de-nombres-de-0-a-99/placer-un-nombre-de-10-a-99-sur-la-droite-graduee)
 - [ ] Explication : “à droite on avance (+), à gauche on recule (−)” #mardi
