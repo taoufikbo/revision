@@ -2,7 +2,7 @@
 - [ ] Observer une droite graduée #lundi
   - 📄 [Exercice droite graduée (CE2)](http://ekladata.com/fU4e5ddhKeTbOFR3J4sxu5IFcBM/CE2-Placer-des-nombres-entiers-sur-une-droite-graduee.pdf)
   - 🎥 [Utiliser une droite graduée CE1-CE2](https://www.youtube.com/watch?v=A3vze57R9w0)
-- [ ] Colorier l’origine, flèche/sens #lundi
+- [ ] Colorier l’origine, flèche sens #lundi
 
 ## Mardi
 - [ ] Colorier en bleu/rouge/ la partie positive/négative #mardi
